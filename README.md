@@ -1,6 +1,6 @@
 # Curso Angular
 
-Códigos de exemplo do Curso de Angular - Lioane Groner.
+Códigos de exemplo do Curso de Angular - Loiane Groner.
 
 Você pode acessar os originais em:
 
